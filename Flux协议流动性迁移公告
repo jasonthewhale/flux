@@ -1,0 +1,7 @@
+# Liquidity Migration Announcement Of Flux Protocol
+
+According to the proposal of Flux team,the first mining period of Flux token on Conflux chain will end on March 30, 2021.Flux Protocol plans to finish the liquid migration of Compound deposit certification--cToken and Aave deposit certification--aToken staked on Flux platform at 14:00-16:00 on March 31, 2021.
+ 
+## The detailed process information is as follows:
+
+After the end of the FLUX head mining period on March 30, 2021,Flux mining interface will no longer support the Stake/Unstake operation of cToken/aToken. Liquid migration will start at 14:00 on March 31, 2021, and the whole process of migration is estimated 2 hours.Then,user's corresponding asset certification will be automatically migrated to the ordinary deposit on Flux platform.Also,Flux Protocol will help users receive the Flux deposit certification--fToken,without need of manual operation.
